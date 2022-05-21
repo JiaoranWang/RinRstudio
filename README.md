@@ -5,6 +5,10 @@ Please refer to:
 -[Rstudio Online Project](https://rstudio.cloud/project/2138069)
 -[Practice R in coursera](https://www.coursera.org/learn/r-programming/lab-sandbox?path=%2F)
 
+# 1. Foundations: Data, Data, Everywhere
+-[Rstudio Online Project](https://rstudio.cloud/project/2138069)
+-[Practice R in coursera](https://www.coursera.org/learn/r-programming/lab-sandbox?path=%2F)
+
 # [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 ### [My Certificate URL](https://www.coursera.org/account/accomplishments/professional-cert/W4Q4V9JECJ5Q)
