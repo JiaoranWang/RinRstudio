@@ -1,9 +1,9 @@
-Please refer to:
-###AAAA
+# Please refer to:
+gulubgub
 ---
 ## 1. Foundations: Data, Data, Everywhere
-- [Rstudio Online Project](https://rstudio.cloud/project/2138069)
-- [Practice R in coursera](https://www.coursera.org/learn/r-programming/lab-sandbox?path=%2F)
+- [Rstudio Online Project for R->Data science](https://rstudio.cloud/project/2138069)
+- [Practice R online in coursera console](https://www.coursera.org/learn/r-programming/lab-sandbox?path=%2F)
 ---
 ## 1. Foundations: Data, Data, Everywhere
 - [Rstudio Online Project](https://rstudio.cloud/project/2138069)
